@@ -1,3 +1,4 @@
+from gui import *
 def vote_menu():
     john_votes = 0
     print('-' * 35)
